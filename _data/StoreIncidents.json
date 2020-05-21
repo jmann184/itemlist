@@ -207,27 +207,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
 		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -267,12 +267,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -321,6 +321,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 1000,
 		"karmatype": "Good"
@@ -331,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 67
 }
