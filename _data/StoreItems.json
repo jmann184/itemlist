@@ -1046,13 +1046,13 @@
 	},
 	{
 		"abr": "humanleather",
-		"price": 7,
+		"price": 25,
 		"category": "Leathers",
 		"defname": "Leather_Human"
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 50,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
